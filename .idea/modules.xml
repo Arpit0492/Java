@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeforeInterview/BeforeInterview.iml" filepath="$PROJECT_DIR$/BeforeInterview/BeforeInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8Features/Java8LambdaBasics.iml" filepath="$PROJECT_DIR$/Java8Features/Java8LambdaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core Java Revision/OCPJP6 Prep.iml" filepath="$PROJECT_DIR$/Core Java Revision/OCPJP6 Prep.iml" />
+    </modules>
+  </component>
+</project>
